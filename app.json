@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "agirapp",
+    "slug": "agirapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "agirapp"
+}
